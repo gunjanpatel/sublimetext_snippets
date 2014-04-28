@@ -1,0 +1,9 @@
+[
+	{ "keys": ["ctrl+t"], "command": "side_bar_new_file2" }
+	,{ "keys": ["f2"], "command": "side_bar_rename" }
+	,{ "keys": ["ctrl+alt+f"], "command": "side_bar_find_files_path_containing" }
+	,{ "keys": ["ctrl+shift+v"], "command": "phpcs_sniff_this_file" }
+	,{ "keys": ["ctrl+shift+c"], "command": "phpcs_clear_sniffer_marks" }
+	,{ "keys": ["ctrl+shift+h"], "command": "goto_documentation" }
+	,{ "keys": ["ctrl+alt+c"], "command": "code_formatter" }
+]

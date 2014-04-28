@@ -1,0 +1,9 @@
+{
+	"show_debug": false,
+	"phpcs_execute_on_save": true,
+	"phpcs_show_quick_panel": false,
+    "phpcs_additional_args": {
+        "--standard": "Joomla",
+        "-n": ""
+    }
+}

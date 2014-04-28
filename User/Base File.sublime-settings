@@ -1,0 +1,29 @@
+{
+  // Whether there should be blank lines added between the description line, and between tags of different types.
+  // If true, the output might look like this:
+  //
+  // /**
+  //  * [description]
+  //  *
+  //  * @param  {String} foo
+  //  * @param  {Number} bar
+  //  *
+  //  * @return {[Type]}
+  //  */
+  "jsdocs_spacer_between_sections": true,
+  // If true, then pressing enter while in a double-slash comment (like this one)
+  // will automatically add two slashes to the next line as well
+  "jsdocs_extend_double_slash": false,
+  // Minimum spaces between cols (default is 1). For example, a value
+  // of 2 might look like this:
+  //
+  // /**
+  //  * Duis sed arcu non tellus eleifend ullamcorper quis non erat. Curabitur
+  //  *
+  //  * @param   {String}  foo  Lorem ipsum dolor sit amet.
+  //  * @param   {Number}  bar  Nullam fringilla feugiat pretium. Quisque
+  //  *
+  //  * @return  {[Type]}       description
+  //  */
+  "jsdocs_min_spaces_between_columns": 2
+}

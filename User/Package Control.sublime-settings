@@ -1,0 +1,22 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"Goto Documentation",
+		"Joomla! 3.x Snippets",
+		"jQuery",
+		"jQuery Snippets pack",
+		"Package Control",
+		"Phpcs",
+		"Prefixr",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Sublimerge",
+		"TrailingSpaces"
+	]
+}
