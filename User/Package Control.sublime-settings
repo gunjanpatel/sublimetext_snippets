@@ -1,22 +1,35 @@
 {
-	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
 		"DocBlockr",
 		"Emmet",
-		"Git",
-		"Goto Documentation",
-		"Joomla! 3.x Snippets",
+		"Function Name Display",
+		"GitGutter",
+		"GotoDocumentation",
+		"HTML-CSS-JS Prettify",
+		"joomla3-sublime-snippets",
 		"jQuery",
-		"jQuery Snippets pack",
 		"Package Control",
+		"PHP Companion",
 		"Phpcs",
-		"Prefixr",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"Sublimerge",
-		"TrailingSpaces"
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"SublimeLinter-phpmd"
+	],
+	"repositories":
+	[
+		"https://github.com/gunjanpatel/joomla3-sublime-snippets.git"
 	]
 }
